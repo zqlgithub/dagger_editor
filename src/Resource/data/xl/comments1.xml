@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><authors><author>作者</author></authors><commentList><comment ref="V146" authorId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="宋体"/><family val="3"/><charset val="134"/></rPr><t>作者:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="宋体"/><charset val="134"/></rPr><t xml:space="preserve">
+各数字代表：
+1普通怪
+2精英怪
+3BOSS</t></r></text></comment><comment ref="X146" authorId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="宋体"/><family val="3"/><charset val="134"/></rPr><t>作者:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="宋体"/><family val="3"/><charset val="134"/></rPr><t xml:space="preserve">
+各数字代表
+1被打还击
+2被打不还击
+3不可攻击</t></r></text></comment><comment ref="AH146" authorId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="宋体"/><family val="3"/><charset val="134"/></rPr><t>作者:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="宋体"/><family val="3"/><charset val="134"/></rPr><t xml:space="preserve">
+各数字代表：
+1直线竖行行走
+2以角色目标路线行走
+0不会移动
+3直线横行行走</t></r></text></comment><comment ref="AI146" authorId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="宋体"/><family val="3"/><charset val="134"/></rPr><t>作者:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="宋体"/><family val="3"/><charset val="134"/></rPr><t xml:space="preserve">
+单位：毫秒</t></r></text></comment></commentList></comments>
